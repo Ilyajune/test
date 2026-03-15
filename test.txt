@@ -2,8 +2,9 @@
 
 
 int main() {
-	std::cout << "Привет морякам солнечного черноморья!" << std::endl;
-    	std::cout << "Hello, World!" << std::endl;
+	  std::cout << "Земля в элюминаторе!" << std::endl;
+	  std::cout << "Привет морякам солнечного черноморья!" << std::endl;
+    std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
