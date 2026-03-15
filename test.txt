@@ -5,6 +5,9 @@ int main() {
 	std::cout << "Первое изменение" << std::endl;
 	std::cout << "Привет морякам солнечного черноморья!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
+	std::cout << "Изменение 2" << std::endl;
+	std::cout << "Привет морякам солнечного черноморья!" << std::endl;
+    	std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
    	std::cout << "Hello, World!" << std::endl;
